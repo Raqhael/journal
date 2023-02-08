@@ -1,6 +1,7 @@
 {
   "name": "Journal",
   "description": "A simple self-hosted journaling app",
+  "stack": "heroku-18",
   "repository": "https://github.com/inoda/journal",
   "keywords": ["journal"],
   "addons": [
